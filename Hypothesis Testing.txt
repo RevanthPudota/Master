@@ -1,0 +1,21 @@
+Working on hypothesis testing involves using statistical methods to evaluate and draw conclusions about a hypothesis or claim made about a population based on sample data. Here's a brief description of the typical workflow:
+
+Formulate the Null and Alternative Hypotheses: Define the null hypothesis (H0) and the alternative hypothesis (H1) based on the research question or claim. The null hypothesis typically represents the status quo or no effect, while the alternative hypothesis represents the research question or the presence of an effect.
+
+Select the Significance Level: Determine the desired significance level (α) for the hypothesis test. Commonly used significance levels are 0.05 (5%) or 0.01 (1%), representing the maximum acceptable probability of making a Type I error, which is rejecting the null hypothesis when it is true.
+
+Choose the Test Statistic and Test Procedure: Select an appropriate test statistic and test procedure based on the type of data and the hypothesis being tested. Common test procedures include t-tests, chi-square tests, ANOVA, and regression analysis, among others. The choice of test depends on the nature of the variables and the research question.
+
+Collect Sample Data: Gather the necessary sample data relevant to the hypothesis being tested. The sample should be representative of the population under study, and the data should be collected using appropriate sampling techniques.
+
+Compute the Test Statistic: Calculate the test statistic based on the sample data and the chosen test procedure. The test statistic measures the degree of agreement or disagreement between the sample data and the null hypothesis.
+
+Determine the Critical Region: Identify the critical region or rejection region based on the chosen significance level. The critical region defines the range of values of the test statistic for which the null hypothesis will be rejected in favor of the alternative hypothesis.
+
+Compare the Test Statistic with the Critical Region: Compare the calculated test statistic with the critical region. If the test statistic falls within the critical region, reject the null hypothesis. If it falls outside the critical region, fail to reject the null hypothesis.
+
+Draw Conclusions: Based on the comparison of the test statistic with the critical region, draw conclusions about the hypothesis being tested. If the null hypothesis is rejected, it suggests evidence in favor of the alternative hypothesis. If the null hypothesis is not rejected, there is insufficient evidence to support the alternative hypothesis.
+
+Report Results: Clearly communicate the results of the hypothesis test, including the calculated test statistic, the critical region, the decision to reject or fail to reject the null hypothesis, and the corresponding conclusions. Include any assumptions or limitations of the test that may impact the interpretation of the results.
+
+Hypothesis testing provides a systematic approach to evaluate the validity of assumptions, test research hypotheses, and make informed statistical inferences. It is widely used in research studies, quality control, A/B testing, and various scientific and business applications.
